@@ -1,0 +1,1 @@
+Repository for the Github Page of Walkability project part 1.
